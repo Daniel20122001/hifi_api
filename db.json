@@ -1,5 +1,11 @@
 {
-    "": [
-      { "id": 1, "title": "", "author": "" }
+    "brands": [
+        {
+            "id": 1, 
+            "name":"Jolida"
+        }
+    ],
+    "products": [
+      { "id": 1, "title": "2345", "brandId":1}
     ]
   }
