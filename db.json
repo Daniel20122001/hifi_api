@@ -1,11 +1,60 @@
 {
-    "brands": [
-        {
-            "id": 1, 
-            "name":"Jolida"
-        }
-    ],
-    "products": [
-      { "id": 1, "title": "2345", "brandId":1}
-    ]
-  }
+  "brands": [
+    {
+      "id": 1,
+      "name": "Sennheiser"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "headphones"
+    }
+  ],
+  "products": [
+    {
+      "id": "",
+      "images": [
+        "http://localhost:4000/img/headphones/Sennheiser_HD_800_S_Open_Back_Headphones.jpg"
+      ],
+      "title": "Sennheiser RS 120-W Wireless Headphones",
+      "price": 1399.0,
+      "brandId": 1,
+      "catergoryId": 1,
+      "stock": 2
+    },
+    {
+      "id": "",
+      "images": [
+        "http://localhost:4000/img/headphones/Sennheiser_HD_820_Closed_Back_Headphones_(Ex_Display).png"
+      ],
+      "title": "Sennheiser RS 120-W Wireless Headphones",
+      "price": 119.0,
+      "brandId": 1,
+      "catergoryId": 1,
+      "stock": 5
+    },
+    {
+      "id": "",
+      "images": [
+        "http://localhost:4000/img/headphones/Sennheiser_RS_175_Wireless_Headphones.png"
+      ],
+      "title": "Sennheiser RS 175 Wireless Headphones",
+      "price": 189.0,
+      "brandId": 1,
+      "catergoryId": 1,
+      "stock": 12
+    },
+    {
+      "id": "",
+      "images": [
+        "http://localhost:4000/img/headphones/Sennheiser_RS_120-W_Wireless_Headphones.jpg"
+      ],
+      "title": "Sennheiser HD 820 Closed Back Headphones (Ex Display)",
+      "price": 1549.0,
+      "brandId": 1,
+      "catergoryId": 1,
+      "stock": 10
+    }
+  ]
+}
