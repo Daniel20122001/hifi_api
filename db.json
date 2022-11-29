@@ -1,11 +1,25 @@
 {
-    "brands": [
-        {
-            "id": 1, 
-            "name":"Jolida"
-        }
+    "id":"1",
+    "images":[
+        "src1",
+        "src2",
+        "src3"
     ],
-    "products": [
-      { "id": 1, "title": "2345", "brandId":1}
-    ]
-  }
+    "title":"Sennheiser HD 800 S Open Back Headphones",
+    "price":"£1,399.00",
+    "brand":"Sennheiser",
+    "stock":"In stock",
+
+    
+    "id":"2",
+    "images":[
+        "src1",
+        "src2",
+        "src3"
+    ],
+    "title":"Sennheiser HD 820 Closed Back Headphones",
+    "price":"",
+    "brand":"Sennheiser",
+    "stock":""
+    
+}
