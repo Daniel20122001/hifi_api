@@ -1,12 +1,10 @@
 {
     "id":"",
     "images":[
-        "src1",
-        "src2",
-        "src3"
+        "public/img/headphones/Sennheiser_RS_120-W_Wireless_Headphones.png"
     ],
     "title":"Sennheiser HD 820 Closed Back Headphones (Ex Display)",
-    "price":"1,549.00",
+    "price":1549.00,
     "brand":"Sennheiser",
     "stock":"10"
 }
