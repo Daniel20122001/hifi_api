@@ -13,7 +13,7 @@
   ],
   "products": [
     {
-      "id": "",
+      "id": 1,
       "images": [
         "http://localhost:4000/img/headphones/Sennheiser_HD_800_S_Open_Back_Headphones.jpg"
       ],
@@ -24,7 +24,7 @@
       "stock": 2
     },
     {
-      "id": "",
+      "id": 2,
       "images": [
         "http://localhost:4000/img/headphones/Sennheiser_HD_820_Closed_Back_Headphones_(Ex_Display).png"
       ],
@@ -35,7 +35,7 @@
       "stock": 5
     },
     {
-      "id": "",
+      "id": 3,
       "images": [
         "http://localhost:4000/img/headphones/Sennheiser_RS_175_Wireless_Headphones.png"
       ],
@@ -46,7 +46,7 @@
       "stock": 12
     },
     {
-      "id": "",
+      "id": 4,
       "images": [
         "http://localhost:4000/img/headphones/Sennheiser_RS_120-W_Wireless_Headphones.jpg"
       ],
