@@ -80,9 +80,9 @@
     {
       "id": "4",
       "images": [
-        "http://localhost:4000/img/headphones/Sennheiser_RS_120-W_Wireless_Headphones.jpg"
+        "/img/dvdafspillere/exposure_2010S.jpg"
       ],
-      "title": "Sennheiser RS 120-W Wireless Headphones",
+      "title": "Exposure 2010S - DVD afspiller",
       "price": 1549.0,
       "brandId": 1,
       "catergoryId": 1,
