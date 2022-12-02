@@ -58,9 +58,9 @@
     {
       "id": "2",
       "images": [
-        "http://localhost:4000/img/headphones/Sennheiser_HD_820_Closed_Back_Headphones_(Ex_Display).png"
+        "/img/dvdafspillere/creek_classic.jpg"
       ],
-      "title": "Sennheiser HD 820 Closed Back Headphones (Ex Display)",
+      "title": "Greek Classic - DVD afspiller",
       "price": 119.0,
       "brandId": 1,
       "catergoryId": 1,
