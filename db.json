@@ -2,14 +2,46 @@
  "brands": [
     {
       "id": 1,
-      "name": "Sennheiser"
-    }
+      "name": "Creek"
+    },
+    {
+        "id": 2,
+        "name": "Exposure"
+      }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "headphones"
-    }
+      "name": "CD players"
+    },
+    {
+        "id": 2,
+        "name": "DVD players"
+      },
+      {
+        "id": 3,
+        "name": "Power amplifiers"
+      },
+      {
+        "id": 4,
+        "name": "Preamplifiers"
+      },
+      {
+        "id": 5,
+        "name": "Internal amplifiers"
+      },
+      {
+        "id": 6,
+        "name": "Speakers"
+      },
+      {
+        "id": 7,
+        "name": "Turntables"
+      },
+      {
+        "id": 8,
+        "name": "Tube amplifiers"
+      }
   ],
   "products": [
     {
