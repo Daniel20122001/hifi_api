@@ -47,9 +47,9 @@
     {
       "id": "1",
       "images": [
-        "http://localhost:4000/img/headphones/Sennheiser_HD_800_S_Open_Back_Headphones.jpg"
+        "/img/cd_afspillere/creek_classic_cd.jpg"
       ],
-      "title": "Sennheiser RS 120-W Wireless Headphones",
+      "title": "Creek Classic - CD Player",
       "price": 1399.0,
       "brandId": 1,
       "catergoryId": 1,
@@ -69,9 +69,9 @@
     {
       "id": "3",
       "images": [
-        "http://localhost:4000/img/headphones/Sennheiser_RS_175_Wireless_Headphones.png"
+        "/img/cd_afspillere/creek_Destiny_CD.jpg"
       ],
-      "title": "Sennheiser RS 175 Wireless Headphones",
+      "title": "Creek Destany - CD Player",
       "price": 189.0,
       "brandId": 1,
       "catergoryId": 1,
