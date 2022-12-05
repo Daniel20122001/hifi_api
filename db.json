@@ -131,7 +131,30 @@
         "brandId": 1,
         "catergoryId": 1,
         "stock": 10
+      },
+      {
+        "id": "9",
+        "images": [
+          "/img/effektforstaerkere/manley_mahi.jpg"
+        ],
+        "title": "Manley Mahi - Effektforstærker",
+        "price": 1549.0,
+        "brandId": 1,
+        "catergoryId": 1,
+        "stock": 10
+      },
+      {
+        "id": "10",
+        "images": [
+          "/img/hojtalere/harbeth_monitor30.jpg"
+        ],
+        "title": "Harbeth Monitor 30 - Højtalere",
+        "price": 1549.0,
+        "brandId": 1,
+        "catergoryId": 1,
+        "stock": 10
       }
+
       
   ],
   "faq": [
