@@ -17,7 +17,7 @@
         "name": "Manley"
       },
       {
-        "id": 2,
+        "id": 5,
         "name": "Harbeth"
       }
   ],
@@ -98,7 +98,7 @@
       "price": 1549.0,
       "brandId": 2,
       "catergoryId": 1,
-      "stock": 10
+      "stock": 4
     },
     {
       "id": "5",
@@ -120,7 +120,7 @@
       "price": 1549.0,
       "brandId": 2,
       "catergoryId": 1,
-      "stock": 10
+      "stock": 11
     },
       {
         "id": "7",
@@ -131,7 +131,7 @@
         "price": 1549.0,
         "brandId": 3,
         "catergoryId": 1,
-        "stock": 10
+        "stock": 22
       },
       {
         "id": "8",
@@ -142,7 +142,7 @@
         "price": 1549.0,
         "brandId": 3,
         "catergoryId": 1,
-        "stock": 10
+        "stock": 24
       },
       {
         "id": "9",
@@ -153,7 +153,7 @@
         "price": 1549.0,
         "brandId": 4,
         "catergoryId": 1,
-        "stock": 10
+        "stock": 9
       },
       {
         "id": "10",
@@ -164,7 +164,7 @@
         "price": 1549.0,
         "brandId": 5,
         "catergoryId": 1,
-        "stock": 10
+        "stock": 18
       }
 
       
