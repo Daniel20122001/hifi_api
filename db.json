@@ -1,20 +1,24 @@
 {
  "brands": [
-    {
-      "id": 1,
-      "name": "Creek"
-    },
-    {
+      {
+        "id": 1,
+        "name": "Creek"
+      },
+      {
         "id": 2,
         "name": "Exposure"
+      },
+      {
+        "id": 3,
+        "name": "Parasound"
       }
   ],
   "categories": [
-    {
-      "id": 1,
-      "name": "CD players"
-    },
-    {
+      {
+        "id": 1,
+        "name": "CD players"
+      },
+      {
         "id": 2,
         "name": "DVD players"
       },
@@ -49,7 +53,7 @@
       "images": [
         "/img/cd_afspillere/creek_classic_cd.jpg"
       ],
-      "title": "Creek Classic - CD Player",
+      "title": "Creek Classic - CD player",
       "price": 1399.0,
       "brandId": 1,
       "catergoryId": 1,
@@ -58,68 +62,79 @@
     {
       "id": "2",
       "images": [
-        "/img/dvdafspillere/creek_classic.jpg"
-      ],
-      "title": "Greek Classic - DVD afspiller",
-      "price": 119.0,
-      "brandId": 1,
-      "catergoryId": 1,
-      "stock": 5
-    },
-    {
-      "id": "3",
-      "images": [
         "/img/cd_afspillere/creek_Destiny_CD.jpg"
       ],
-      "title": "Creek Destany - CD Player",
+      "title": "Creek Destany - CD player",
       "price": 189.0,
       "brandId": 1,
       "catergoryId": 1,
       "stock": 12
     },
     {
-      "id": "4",
+      "id": "3",
       "images": [
-        "/img/dvdafspillere/exposure_2010S.jpg"
+        "/img/cd_afspillere/creek_evo_cd.jpg"
       ],
-      "title": "Exposure 2010S - DVD afspiller",
+      "title": "Creek Evo - CD player",
       "price": 1549.0,
       "brandId": 1,
       "catergoryId": 1,
-      "stock": 10
+      "stock": 15
     },
     {
-        "id": "5",
-        "images": [
-          "/img/cd_afspillere/creek_evo_cd.jpg"
-        ],
-        "title": "Creek Evo - CD Player",
-        "price": 1549.0,
-        "brandId": 1,
-        "catergoryId": 1,
-        "stock": 10
-      },
-      {
-        "id": "6",
-        "images": [
-          ""
-        ],
-        "title": "",
-        "price": 1549.0,
-        "brandId": 1,
-        "catergoryId": 1,
-        "stock": 10
-      },
-      {
+      "id": "4",
+      "images": [
+        "/img/cd_afspillere/Exp_2010S_CD.gif"
+      ],
+      "title": "Exposure 2010S - CD player",
+      "price": 1549.0,
+      "brandId": 2,
+      "catergoryId": 1,
+      "stock": 6
+    },
+    {
+      "id": "5",
+      "images": [
+        "/img/dvdafspillere/creek_classic.jpg"
+      ],
+      "title": "Greek Classic - DVD player",
+      "price": 119.0,
+      "brandId": 1,
+      "catergoryId": 2,
+      "stock": 34
+    },
+    {
+      "id": "6",
+      "images": [
+        "/img/dvdafspillere/exposure_2010S.jpg"
+      ],
+      "title": "Exposure 2010S - DVD player",
+      "price": 1549.0,
+      "brandId": 2,
+      "catergoryId": 2,
+      "stock": 18
+    },
+    {
         "id": "7",
         "images": [
-          "/img/cd_afspillere/Exp_2010S_CD.gif"
+          "/img/dvdafspillere/parasound_d200.jpg"
         ],
-        "title": "Exposure 2010S - CD Player",
+        "title": "Parasound D200 - DVD player",
         "price": 1549.0,
-        "brandId": 2,
-        "catergoryId": 1,
-        "stock": 10
+        "brandId": 3,
+        "catergoryId": 2,
+        "stock": 23
+      },
+      {
+        "id": "8",
+        "images": [
+          "/img/dvdafspillere/parasound_halod3.jpg"
+        ],
+        "title": "Parasound Halod3 - DVD player",
+        "price": 1549.0,
+        "brandId": 3,
+        "catergoryId": 2,
+        "stock": 7
       }
       
   ],
