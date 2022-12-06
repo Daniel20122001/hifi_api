@@ -165,6 +165,17 @@
         "brandId": 5,
         "catergoryId": 6,
         "stock": 18
+      },
+      {
+        "id": "11",
+        "images": [
+          "/img/hojtalere/epos_m5.gif"
+        ],
+        "title": "Epos M5 - Speaker",
+        "price": 1549.0,
+        "brandId": 5,
+        "catergoryId": 1,
+        "stock": 18
       }
 
       
