@@ -311,13 +311,11 @@
       "subheadline": "Exchanges",
       "text": "We can only replace items if they are defective or damaged. If you need to exchange the product for the same item due to a fault, please first send us an email at sales@hificorner.co.uk and once approved, send your item to:\n\nHi-Fi Corner, 2 Joppa Road, Mackenzie House, Portobello, Edinburgh, EH15 2EU.\n\nPlease also include the proof of purchase and a cover letter detailing the reason for exchange."
     }
+  ],
+  "hero": [
+    {
+      "id": "1",
+      "video": "http://localhost:4000/assets/hero_video.mp4"
+    }
   ]
-}
-],
-"hero": [
-  {
-    "id": "1",
-    "video": "http://localhost:4000/assets/hero_video.mp4"
-  }
-]
 }
