@@ -62,7 +62,7 @@
   "products": [
     {
       "id": "1",
-      "images": ["/img/cd_afspillere/creek_classic_cd.jpg"],
+      "images": ["/img/cd_afspillere/creek_classic_cd.jpg", "/img/cd_afspillere/creek_classic_cd.jpg", "/img/cd_afspillere/creek_classic_cd.jpg"],
       "title": "Creek Classic - CD player",
       "price": 1399.0,
       "brandId": 1,
@@ -82,7 +82,7 @@
     },
     {
       "id": "2",
-      "images": ["/img/cd_afspillere/creek_Destiny_CD.jpg"],
+      "images": ["/img/cd_afspillere/creek_Destiny_CD.jpg", "/img/cd_afspillere/creek_Destiny_CD.jpg", "/img/cd_afspillere/creek_Destiny_CD.jpg"],
       "title": "Creek Destany - CD player",
       "price": 189.0,
       "brandId": 1,
@@ -102,7 +102,7 @@
     },
     {
       "id": "3",
-      "images": ["/img/cd_afspillere/creek_evo_cd.jpg"],
+      "images": ["/img/cd_afspillere/creek_evo_cd.jpg", "/img/cd_afspillere/creek_evo_cd.jpg", "/img/cd_afspillere/creek_evo_cd.jpg"],
       "title": "Creek Evo - CD player",
       "price": 1549.0,
       "brandId": 1,
@@ -122,7 +122,7 @@
     },
     {
       "id": "4",
-      "images": ["/img/cd_afspillere/Exp_2010S_CD.gif"],
+      "images": ["/img/cd_afspillere/Exp_2010S_CD.gif", "/img/cd_afspillere/Exp_2010S_CD.gif", "/img/cd_afspillere/Exp_2010S_CD.gif"],
       "title": "Exposure 2010S - CD player",
       "price": 1549.0,
       "brandId": 2,
@@ -142,7 +142,7 @@
     },
     {
       "id": "5",
-      "images": ["/img/dvdafspillere/creek_classic.jpg"],
+      "images": ["/img/dvdafspillere/creek_classic.jpg", "/img/dvdafspillere/creek_classic.jpg", "/img/dvdafspillere/creek_classic.jpg"],
       "title": "Greek Classic - DVD player",
       "price": 119.0,
       "brandId": 1,
@@ -162,7 +162,7 @@
     },
     {
       "id": "6",
-      "images": ["/img/dvdafspillere/exposure_2010S.jpg"],
+      "images": ["/img/dvdafspillere/exposure_2010S.jpg", "/img/dvdafspillere/exposure_2010S.jpg", "/img/dvdafspillere/exposure_2010S.jpg"],
       "title": "Exposure 2010S - DVD player",
       "price": 1549.0,
       "brandId": 2,
@@ -182,7 +182,7 @@
     },
     {
       "id": "7",
-      "images": ["/img/dvdafspillere/parasound_d200.jpg"],
+      "images": ["/img/dvdafspillere/parasound_d200.jpg", "/img/dvdafspillere/parasound_d200.jpg", "/img/dvdafspillere/parasound_d200.jpg"],
       "title": "Parasound D200 - DVD player",
       "price": 1549.0,
       "brandId": 3,
@@ -202,7 +202,7 @@
     },
     {
       "id": "8",
-      "images": ["/img/dvdafspillere/parasound_halod3.jpg"],
+      "images": ["/img/dvdafspillere/parasound_halod3.jpg", "/img/dvdafspillere/parasound_halod3.jpg", "/img/dvdafspillere/parasound_halod3.jpg"],
       "title": "Parasound Halod 3 - DVD player",
       "price": 1549.0,
       "brandId": 3,
@@ -222,7 +222,7 @@
     },
     {
       "id": "9",
-      "images": ["/img/effektforstaerkere/manley_mahi.jpg"],
+      "images": ["/img/effektforstaerkere/manley_mahi.jpg", "/img/effektforstaerkere/manley_mahi.jpg", "/img/effektforstaerkere/manley_mahi.jpg"],
       "title": "Manley Mahi - Power amplifier",
       "price": 1549.0,
       "brandId": 4,
@@ -242,7 +242,7 @@
     },
     {
       "id": "10",
-      "images": ["/img/hojtalere/harbeth_monitor30.jpg"],
+      "images": ["/img/hojtalere/harbeth_monitor30.jpg", "/img/hojtalere/harbeth_monitor30.jpg", "/img/hojtalere/harbeth_monitor30.jpg"],
       "title": "Harbeth Monitor 30 - Speaker",
       "price": 1549.0,
       "brandId": 5,
@@ -262,7 +262,7 @@
     },
     {
       "id": "11",
-      "images": ["/img/hojtalere/epos_m5.gif"],
+      "images": ["/img/hojtalere/epos_m5.gif", "/img/hojtalere/epos_m5.gif", "/img/hojtalere/epos_m5.gif"],
       "title": "Epos M5 - Speaker",
       "price": 1549.0,
       "brandId": 6,
