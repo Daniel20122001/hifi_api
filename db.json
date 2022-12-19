@@ -2,28 +2,96 @@
   "brands": [
     {
       "id": 1,
-      "name": "Sennheiser"
+      "name": "Creek"
+    },
+    {
+      "id": 2,
+      "name": "Exposure"
+    },
+    {
+      "id": 3,
+      "name": "Parasound"
+    },
+    {
+      "id": 4,
+      "name": "Manley"
+    },
+    {
+      "id": 5,
+      "name": "Harbeth"
+    },
+    {
+      "id": 6,
+      "name": "Epos"
     }
   ],
+
   "categories": [
     {
       "id": 1,
-      "name": "headphones"
+      "name": "CD players"
+    },
+    {
+      "id": 2,
+      "name": "DVD players"
+    },
+    {
+      "id": 3,
+      "name": "Power amplifiers"
+    },
+    {
+      "id": 4,
+      "name": "Preamplifiers"
+    },
+    {
+      "id": 5,
+      "name": "Internal amplifiers"
+    },
+    {
+      "id": 6,
+      "name": "Speakers"
+    },
+    {
+      "id": 7,
+      "name": "Turntables"
+    },
+    {
+      "id": 8,
+      "name": "Tube amplifiers"
     }
   ],
+
   "products": [
     {
+<<<<<<< HEAD
       "id": 1,
       "images": [
         "http://localhost:4000/img/headphones/Sennheiser_HD_800_S_Open_Back_Headphones.jpg"
       ],
       "title": "Sennheiser RS 120-W Wireless Headphones",
+=======
+      "id": "1",
+      "images": ["/img/cd_afspillere/creek_classic_cd.jpg", "/img/cd_afspillere/creek_classic_cd.jpg", "/img/cd_afspillere/creek_classic_cd.jpg"],
+      "title": "Creek Classic - CD player",
+>>>>>>> 40c455f527d1af7193872884199e5d0943bfd2b0
       "price": 1399.0,
       "brandId": 1,
       "catergoryId": 1,
-      "stock": 2
+      "stock": 2,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "410 cm x 50 cm x 100 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
     },
     {
+<<<<<<< HEAD
       "id": 2,
       "images": [
         "http://localhost:4000/img/headphones/Sennheiser_HD_820_Closed_Back_Headphones_(Ex_Display).png"
@@ -40,21 +108,253 @@
         "http://localhost:4000/img/headphones/Sennheiser_RS_175_Wireless_Headphones.png"
       ],
       "title": "Sennheiser RS 175 Wireless Headphones",
+=======
+      "id": "2",
+      "images": ["/img/cd_afspillere/creek_Destiny_CD.jpg", "/img/cd_afspillere/creek_Destiny_CD.jpg", "/img/cd_afspillere/creek_Destiny_CD.jpg"],
+      "title": "Creek Destany - CD player",
+>>>>>>> 40c455f527d1af7193872884199e5d0943bfd2b0
       "price": 189.0,
       "brandId": 1,
       "catergoryId": 1,
-      "stock": 12
+      "stock": 12,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "300 cm x 50 cm x 100 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
     },
     {
+<<<<<<< HEAD
       "id": 4,
       "images": [
         "http://localhost:4000/img/headphones/Sennheiser_RS_120-W_Wireless_Headphones.jpg"
       ],
       "title": "Sennheiser HD 820 Closed Back Headphones (Ex Display)",
+=======
+      "id": "3",
+      "images": ["/img/cd_afspillere/creek_evo_cd.jpg", "/img/cd_afspillere/creek_evo_cd.jpg", "/img/cd_afspillere/creek_evo_cd.jpg"],
+      "title": "Creek Evo - CD player",
+>>>>>>> 40c455f527d1af7193872884199e5d0943bfd2b0
       "price": 1549.0,
       "brandId": 1,
       "catergoryId": 1,
-      "stock": 10
+      "stock": 10,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "520 cm x 50 cm x 200 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "images": ["/img/cd_afspillere/Exp_2010S_CD.gif", "/img/cd_afspillere/Exp_2010S_CD.gif", "/img/cd_afspillere/Exp_2010S_CD.gif"],
+      "title": "Exposure 2010S - CD player",
+      "price": 1549.0,
+      "brandId": 2,
+      "catergoryId": 1,
+      "stock": 4,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "400 cm x 40 cm x 90 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "images": ["/img/dvdafspillere/creek_classic.jpg", "/img/dvdafspillere/creek_classic.jpg", "/img/dvdafspillere/creek_classic.jpg"],
+      "title": "Greek Classic - DVD player",
+      "price": 119.0,
+      "brandId": 1,
+      "catergoryId": 2,
+      "stock": 5,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "430 cm x 60 cm x 90 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "images": ["/img/dvdafspillere/exposure_2010S.jpg", "/img/dvdafspillere/exposure_2010S.jpg", "/img/dvdafspillere/exposure_2010S.jpg"],
+      "title": "Exposure 2010S - DVD player",
+      "price": 1549.0,
+      "brandId": 2,
+      "catergoryId": 2,
+      "stock": 11,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "410 cm x 50 cm x 100 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "images": ["/img/dvdafspillere/parasound_d200.jpg", "/img/dvdafspillere/parasound_d200.jpg", "/img/dvdafspillere/parasound_d200.jpg"],
+      "title": "Parasound D200 - DVD player",
+      "price": 1549.0,
+      "brandId": 3,
+      "catergoryId": 2,
+      "stock": 22,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "410 cm x 50 cm x 100 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "images": ["/img/dvdafspillere/parasound_halod3.jpg", "/img/dvdafspillere/parasound_halod3.jpg", "/img/dvdafspillere/parasound_halod3.jpg"],
+      "title": "Parasound Halod 3 - DVD player",
+      "price": 1549.0,
+      "brandId": 3,
+      "catergoryId": 2,
+      "stock": 24,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "410 cm x 50 cm x 100 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "images": ["/img/effektforstaerkere/manley_mahi.jpg", "/img/effektforstaerkere/manley_mahi.jpg", "/img/effektforstaerkere/manley_mahi.jpg"],
+      "title": "Manley Mahi - Power amplifier",
+      "price": 1549.0,
+      "brandId": 4,
+      "catergoryId": 3,
+      "stock": 9,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "410 cm x 50 cm x 100 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "images": ["/img/hojtalere/harbeth_monitor30.jpg", "/img/hojtalere/harbeth_monitor30.jpg", "/img/hojtalere/harbeth_monitor30.jpg"],
+      "title": "Harbeth Monitor 30 - Speaker",
+      "price": 1549.0,
+      "brandId": 5,
+      "catergoryId": 6,
+      "stock": 16,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "440 cm x 70 cm x 160 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "optical and aux"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "images": ["/img/hojtalere/epos_m5.gif", "/img/hojtalere/epos_m5.gif", "/img/hojtalere/epos_m5.gif"],
+      "title": "Epos M5 - Speaker",
+      "price": 1549.0,
+      "brandId": 6,
+      "catergoryId": 6,
+      "stock": 18,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "specs": [
+        {
+          "specs-title": "measurements",
+          "spec": "250 cm x 80 cm x 160 cm"
+        },
+        {
+          "specs-title": "inputs",
+          "spec": "HDMI, optical and aux"
+        }
+      ]
+    }
+  ],
+
+  "faq": [
+    {
+      "headline": "Faq",
+      "headlinetext": "Here at Hi-Fi Corner, our trained product specialists aim to provide the right product for you. We take great care with all of our orders to ensure you are fully happy with the product.",
+      "text": "We aim to resolve any problems to your satisfaction.\nPlease contact us directly, if, for any reason, you have an issue with your order, your product or any other service provided. OUR GUARANTEE All items excluding ex-display and secondhand goods are covered by at least 12 months warranty; this is detailed on your receipt. Any secondhand or ex-display product is covered by at least 3 months warranty as noted in the original listing.\nHi-Fi Corner cannot guarantee against any misuse (i.e. blown speakers etc.), commercial use, wear and tear, erosion of parts, loss of data stored on any form of writeable/hard drive devices, dead pixels of an amount not covered by the manufacturer's specifications or where you have not allowed repairs of goods to be carried out by authorised agents. If it has been more than 30 days since you have received a product and discovered a fault, we will still repair the goods free of charge or, if you prefer, replace them provided that you report the fault within 12 months of purchase. If we are unable to repair or replace the item(s) we will provide you with a full refund instead.\n\nPlease note that if it is after the initial 30 days of purchase you must be able to certify the fault was present upon delivery and not by misuse."
+    },
+    {
+      "subheadline": "Refunds",
+      "text": "Once your returned item is received and inspected, we will send you an email or phone call to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.\n\nIf you are approved, then your refund will be processed, and a credit will automatically be applied to your original method of payment, within 3 working days. Please note we require an email address or contact number to arrange a refund that was purchased over the phone. There are certain situations where only partial refunds are granted or we cannot refund you; Any item not in its original condition, is damaged or missing parts for reasons not due to our error. Any damage that has been caused by misuse, such as a speaker drive unit being blown or water being introduced to the unit, or that has been damaged due to poor packing. Any item that is returned more than 30 days after delivery. In any instance, we will notify you as soon as possible to resolve this matter.\n\nIf you haven't received a refund after confirmation, first check your bank account again. Then contact your credit card company, it may take some time before your refund is officially posted. Next contact your bank. There is often some processing time of a couple of days before a refund is posted. If you have done all of this and you still have not received your refund after 7 days, please contact us at sales@hificorner.co.uk."
+    },
+    {
+      "subheadline": "Shipping",
+      "text": "To return your product, you should mail your product to:\n2 Joppa Road, Mackenzie House, Edinburgh, EH15 2EU.\nIf you would like to return an item, please note that we cannot arrange a collection of the item without additional cost; you will be responsible for ensuring the product reaches us. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund. Depending on where you live, the time it may take for your exchanged product to reach you may vary. We will process the refund when the item arrives with us.\n\nIf you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item."
+    },
+    {
+      "subheadline": "Delivery",
+      "text": "Please check the condition of all products delivered as soon as they are received. This does not affect your statutory rights. If there is a problem we would like to deal with this as soon as possible to alleviate any inconvenience to yourself.\nAs soon as we have delivered the goods to you, you will be responsible for them and any damage occasioned whilst in your possession. The majority of goods we send will require you to sign for them upon delivery. If you are not able to sign for a delivery, we will do our utmost to contact you to arrange when it is convenient to redeliver. Our responsibility for everything other than damage due to our negligence will end at the time the carrier tried to delivery the goods to you. If your product is visibly damaged in transit, please sign for the delivery as 'damaged' and let us know as soon as possible."
+    },
+    {
+      "subheadline": "Returns process/Your statutory rights",
+      "text": "If you wish to return goods purchased online or over the phone, you should notify Hi-Fi Corner of your intention to do so within 14 days of the date of receipt.\n\nYou then have an additional 14 days to return the goods from this notification date (goods must be returned within 28 days). We will in such circumstances refund you the cost of your order, excluding postage or delivery cost. However, if goods are not returned 'as new' due to excessive handling on your part, or with components missing (including packing materials and manuals) we may make a reasonable deduction for this. Please do not send your product back to the manufacturer. We kindly ask that to make the refund process easier, that you include your receipt or proof of purchase and a cover letter detailing briefly why the item is being returned. We cannot refund the cost of delivery fees if there was an additional charge, only the cost of the goods themselves. We will process the refund when the item arrives with us. If you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item.\n\nPlease contact us before attempting to return your goods. For purchases bought in-store, you can also drop in and be refunded instantly."
+    },
+    {
+      "subheadline": "Sale Items",
+      "text": "Only regularly priced items may be refunded, unfortunately clearance, special order and outlet items cannot be refunded unless they are found to be faulty on arrival. For more details about returning secondhand or sale items, please contact sales@hificorner.co.uk."
+    },
+    {
+      "subheadline": "Exchanges",
+      "text": "We can only replace items if they are defective or damaged. If you need to exchange the product for the same item due to a fault, please first send us an email at sales@hificorner.co.uk and once approved, send your item to:\n\nHi-Fi Corner, 2 Joppa Road, Mackenzie House, Portobello, Edinburgh, EH15 2EU.\n\nPlease also include the proof of purchase and a cover letter detailing the reason for exchange."
+    }
+  ],
+  
+  "hero": [
+    {
+      "id": "1",
+      "video": "http://localhost:4000/assets/hero_video.mp4"
     }
   ]
 }
