@@ -73,12 +73,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "410 cm x 50 cm x 100 cm"
+          "name": "measurements",
+          "value": "410 cm x 50 cm x 100 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -93,12 +93,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "300 cm x 50 cm x 100 cm"
+          "name": "measurements",
+          "value": "300 cm x 50 cm x 100 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -113,12 +113,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "520 cm x 50 cm x 200 cm"
+          "name": "measurements",
+          "value": "520 cm x 50 cm x 200 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -133,12 +133,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "400 cm x 40 cm x 90 cm"
+          "name": "measurements",
+          "value": "400 cm x 40 cm x 90 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -153,12 +153,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "430 cm x 60 cm x 90 cm"
+          "name": "measurements",
+          "value": "430 cm x 60 cm x 90 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -173,12 +173,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "410 cm x 50 cm x 100 cm"
+          "name": "measurements",
+          "value": "410 cm x 50 cm x 100 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -193,12 +193,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "410 cm x 50 cm x 100 cm"
+          "name": "measurements",
+          "value": "410 cm x 50 cm x 100 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "optical and aux"
+          "name": "inputs",
+          "value": "optical and aux"
         }
       ]
     },
@@ -213,12 +213,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "410 cm x 50 cm x 100 cm"
+          "name": "measurements",
+          "value": "410 cm x 50 cm x 100 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -233,12 +233,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "410 cm x 50 cm x 100 cm"
+          "name": "measurements",
+          "value": "410 cm x 50 cm x 100 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     },
@@ -253,12 +253,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "440 cm x 70 cm x 160 cm"
+          "name": "measurements",
+          "value": "440 cm x 70 cm x 160 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "optical and aux"
+          "name": "inputs",
+          "value": "optical and aux"
         }
       ]
     },
@@ -273,12 +273,12 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "specs": [
         {
-          "specs-title": "measurements",
-          "spec": "250 cm x 80 cm x 160 cm"
+          "name": "measurements",
+          "value": "250 cm x 80 cm x 160 cm"
         },
         {
-          "specs-title": "inputs",
-          "spec": "HDMI, optical and aux"
+          "name": "inputs",
+          "value": "HDMI, optical and aux"
         }
       ]
     }
